@@ -14,3 +14,8 @@ curso-games-zenva
   - dragon : phaser 3
 
 tentar atualizar exemplos para versão mais recente do phaser, se possível
+
+- webpack projetos phaser - com nodejs e npm
+1. git clone https://github.com/photonstorm/phaser3-project-template.git
+2. npm install
+3. npm run start
