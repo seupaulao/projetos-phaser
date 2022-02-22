@@ -1,7 +1,3 @@
-//var App = function() {};
-
-//App.prototype.start = function()
-//{
     
     var config = {
         type: Phaser.AUTO,
@@ -18,13 +14,3 @@
     
     var game = new Phaser.Game(config);
 
-//}
-
-//window.onload = function()
-//{
-//	'use strict';
-//	
-//	var app = new App();
-//
-//	app.start();
-//}
